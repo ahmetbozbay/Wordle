@@ -1,0 +1,1 @@
+oyunu başlatmak için gereken kelime haznesini <abesharf.txt> yükleyiniz.
